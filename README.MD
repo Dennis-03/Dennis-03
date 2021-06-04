@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning things I like
 - 👯 I’m looking to upskill myself
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to create 3d Models
 
 ### Connect with me:
@@ -35,7 +35,9 @@
 <img align="left" alt="AWS" width="26px" src="https://d0.awsstatic.com/logos/powered-by-aws.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
 <img align="left" alt="Nginx" width="26px" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" />
-<img align="left" alt="Flask" width="26px" src="https://github.com/mjhea0/awesome-flask/blob/master/flask-logo.svg" />
+<img align="left"  alt="Flask" width="26px" src="https://user-images.githubusercontent.com/54091928/120796713-fd402780-c4ef-11eb-9d70-1bc4289b58e2.png" />
+<img align="left"  alt="C#" width="26px" src="https://user-images.githubusercontent.com/54091928/120797091-6d4ead80-c4f0-11eb-84b4-e9f2a27fdfb3.png" />
+<img align="left"  alt="Xamarin" width="26px" src="https://user-images.githubusercontent.com/54091928/120797244-9ff8a600-c4f0-11eb-80cc-8de5033fa7fa.png" />
 
 <br />
 <br />
